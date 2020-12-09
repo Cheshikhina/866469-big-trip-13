@@ -1,7 +1,7 @@
 # Проект «Большое путешествие» [![Check status][check-image]][check-url]
 
 * Студент: [Дарья Чешихина](https://up.htmlacademy.ru/ecmascript/13/user/866469).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мирошниченко]("https://htmlacademy.ru/profile/id591417).
 
 ---
 
